@@ -6,13 +6,22 @@ In research related to building performance simulation or prediction, how to qua
 ## Dataset:
 Currently, daily and hourly google trends data were downloaded for multiple countries, including keywords: `Google docs`, `Microsoft office`, and `Adobe`. In addition, the best submissions of the top 50 teams in GEPIII were also downloaded.
 
-Google trends data (Please use `pd.read_pickle()` to read data):
+Google trends data (please use `pd.read_pickle()` to read data):
 - [Daily trend](Dataset/Daily%20data)
 - [Hourly trend](Dataset/Hourly%20data)
 
-GEPIII best submissions from top50 teams (Please use `pd.read_pickle()` to read data):
+GEPIII best submissions from top50 teams (please use `pd.read_pickle()` to read data):
 - [Top50 submissions in GEPIII](Dataset/Top50%20submissions%20in%20GEPIII)
 
 Python notebooks for downloading data:
 - [Download daily trend](DownloadData/DownloadDailyTrend.ipynb)
 - [Download hourly trend](DownloadData/DownloadHourlyTrend.ipynb)
+
+## Analysis:
+
+Derive occupant behavior from the time series of electricity meters, and compare it with google daily trends:
+- [PCA_powerMeter[site13].ipynb](Analysis/PCA_powerMeter%5Bsite13%5D.ipynb)
+
+Analyze residuals of ASHRAE GEPIII submissions (please download `html notebooks` to see interactive visualizations):
+- [Residual Analysis [School].html](Analysis/Residual%20Analysis%20%5BSchool%5D.html)
+- [Residual Analysis [Office].html](Analysis/Residual%20Analysis%20%5BOffice%5D.html)
