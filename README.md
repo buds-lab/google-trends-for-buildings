@@ -6,7 +6,7 @@ In research related to building performance simulation or prediction, how to qua
 ## Dataset:
 Currently, daily google trends data were downloaded for multiple countries.
 
-Google trends data (please use `pd.read_pickle()` to read data):
+Google trends data:
 - [Hourly trend](data/google-trends-data_2016-2018.csv)
 
 Python notebooks for downloading data:
