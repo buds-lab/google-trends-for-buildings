@@ -15,5 +15,4 @@ Derive occupant behavior from the time series of electricity meters via PCA, and
 - [Correlation-between-energy-and-topics.ipynb](notebooks/Correlation-between-energy-and-topics.ipynb)
 
 ## Draft of the paper:
-- [Google Doc](https://docs.google.com/document/d/1xGRByKGvMDlM1S6nzoV_yyFTpnxAaCHqgThruhyCWvs/edit?usp=sharing)
 - [Overleaf](https://www.overleaf.com/read/hdwzbtnpnkft)
