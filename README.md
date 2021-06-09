@@ -16,7 +16,7 @@ Derive occupant behavior from the time series of electricity meters via PCA, and
 
 ## Modeling:
 [Baseline model](notebooks/kfold-lightgbm-without-leak-1-062.ipynb.ipynb) ([a public notebook on kaggle](https://www.kaggle.com/teeyee314/kfold-lightgbm-without-leak-1-062))
-[Proposed method with google trends](notebooks/kfold-lightgbm-without-leak-1-062[add google trends].ipynb) 
+[Proposed method with google trends](notebooks/kfold-lightgbm-without-leak-1-062\[add google trends\].ipynb) 
 
 ## Draft of the paper:
 - [Overleaf](https://www.overleaf.com/read/hdwzbtnpnkft)
