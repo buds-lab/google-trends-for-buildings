@@ -1,4 +1,4 @@
-# google-trends-for-buildings
+# Using Google Trends to Prediction Building Energy
 
 ## Objectives:
 In research related to building performance simulation or prediction, how to quantify the occupant behaviors in different building types, countries and regions is a very difficult topic. Google Trends can provide search volume of various keywords in specific country/zone, and can probably infer the occupant behavior from these time-series trends. 
