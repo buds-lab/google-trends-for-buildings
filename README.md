@@ -20,7 +20,3 @@ Derive occupant behavior from the time series of electricity meters via PCA, and
 
 Vizualization and analysis of results:
 - [Result.ipynb](notebooks/Result.ipynb)
-
-
-## Draft of the paper:
-- [Overleaf](https://www.overleaf.com/read/hdwzbtnpnkft)
