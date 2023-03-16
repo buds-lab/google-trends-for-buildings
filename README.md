@@ -1,5 +1,5 @@
 # Using Google Trends as a proxy for occupant behavior to predict building energy consumption
-[Link of the journal paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261921015919)
+![logo](figures/processed/fig1-intro.png)
 
 ## Objectives:
 In research related to building performance simulation or prediction, how to quantify the occupant behaviors in different building types, countries and regions is a very difficult topic. Google Trends can provide search volume of various keywords in specific country/zone, and can probably infer the occupant behavior from these time-series trends. 
