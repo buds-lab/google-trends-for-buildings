@@ -43,4 +43,15 @@ This project is licensed under the terms of the MIT license.
 
 ## Citation
 
-If you use this work in your research, please cite our paper: https://doi.org/10.1016/j.apenergy.2021.118343
+If you use this code or our findings in your research, please cite our paper using the following Bibtex entry:
+
+```bibtex
+@article{fu2022using,
+  title={Using Google Trends as a proxy for occupant behavior to predict building energy consumption},
+  author={Fu, Chun and Miller, Clayton},
+  journal={Applied Energy},
+  volume={310},
+  pages={118343},
+  year={2022},
+  publisher={Elsevier}
+}
